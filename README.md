@@ -1,4 +1,4 @@
-# Launch-HTN
+# Launch - Hack The North 2020++
 
 This is my first hackathon project that I made with my team at Hack The North 2020++. I was able to learn many new skills such as using React as well as sharpening my HTML/CSS skills. I helped design the web application as well as working on the front-end. 
 
